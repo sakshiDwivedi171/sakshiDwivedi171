@@ -1,4 +1,4 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOrSzlBUNtNTA4vnr9nBGoz3WhCE_3fOHVIQ&usqp=CAU )
+![MasterHead](https://www.syncfusion.com/blogs/wp-content/uploads/2020/07/Top-6-Front-End-Web-Development-Tools-to-Increase-Your-Productivity-in-2020-1.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Sakshi Dwivedi</h1>
