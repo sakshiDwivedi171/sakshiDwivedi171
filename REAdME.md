@@ -6,7 +6,7 @@
 
 <h3 align="center">A passionate backend developer from India</h3>
 
-![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8DnviKfkbxDLCL89rZ-09ebcIU0_eEXRSKA&usqp=CAU)
+![img](https://iconscout.com/illustration/teamwork-3816930)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshiDwivedi171&label=Profile%20views&color=0e75b6&style=flat" alt="sakshiDwivedi171" /> </p>
 
