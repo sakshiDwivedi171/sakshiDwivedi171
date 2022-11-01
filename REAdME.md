@@ -1,7 +1,9 @@
+<h1 align="center">Hi 👋, I'm Sakshi Dwivedi</h1>
+
 ![MasterHead](https://www.syncfusion.com/blogs/wp-content/uploads/2020/07/Top-6-Front-End-Web-Development-Tools-to-Increase-Your-Productivity-in-2020-1.jpg)
 
 
-<h1 align="center">Hi 👋, I'm Sakshi Dwivedi</h1>
+
 <h3 align="center">A passionate backend developer from India</h3>
 
 ![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8DnviKfkbxDLCL89rZ-09ebcIU0_eEXRSKA&usqp=CAU)
