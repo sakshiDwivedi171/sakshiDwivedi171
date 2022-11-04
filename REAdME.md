@@ -38,11 +38,11 @@
 <p align="center">
   <a href="https://github.com/sakshiDwivedi171">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=sakshiDwivedi171&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshiDwivedi171&theme=gotham&hide_border=false" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshiDwivedi171&theme=radical&hide_border=false" />
   </a>
 </p>
   
-  <img src="https://activity-graph.herokuapp.com/graph?username=sakshiDwivedi171&theme=gotham&hide_border=false" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=sakshiDwivedi171&theme=radical&hide_border=false" />
   <br/>  
 
 ## ✍️ Random Dev Quote
