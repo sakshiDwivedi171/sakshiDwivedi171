@@ -42,7 +42,7 @@
   </a>
 </p>
   
-  <img src="https://activity-graph.herokuapp.com/graph?username=sakshiDwivedi171&theme=gotham&hide_border=false"" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=sakshiDwivedi171&theme=gotham&hide_border=false" />
   <br/>  
 
 ## ✍️ Random Dev Quote
